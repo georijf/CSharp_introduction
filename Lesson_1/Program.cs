@@ -38,13 +38,9 @@ namespace Lesson_1
                 }
                 else
                 {
-
+                    Console.WriteLine(i);
                 }
             }
         }
-
-
-
-
     }
 }
