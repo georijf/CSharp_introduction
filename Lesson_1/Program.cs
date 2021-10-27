@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,7 +18,7 @@ namespace Lesson_1
 
 
 
-
+        // from GitKraken
 
         static void Main(string[] args)
         {
